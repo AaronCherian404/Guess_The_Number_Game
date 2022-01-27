@@ -1,5 +1,7 @@
 # Guess_The_Number_Game
-This is a JavaScript-coded game that allows the player to guess a randomly-generated number in the range of 1-20. Enjoy!
+This is a JavaScript-coded game that allows the player to guess a randomly-generated number in the range of 1-20. 
+Click on the index.html file to begin.
+Enjoy!
 
 Rules of the Game:-
 Every Player starts with 20 points
