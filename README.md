@@ -9,5 +9,3 @@ The Player has to enter his/her guess into the box, and click on "Check!".
 For every incorrect guess, the score decreases by one.
 The Screen turns Green when the Player finally guesses the correct number!
 Congratulations! Click on "Again!" to try and beat your previous highscore!
-
-The html file and css file was inspired by a similar program made by Jonas Schmedtmann.
